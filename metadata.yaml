@@ -1,0 +1,29 @@
+_repo: The-Rhode-Island-Artillery-at-the-First-Battle-of-Bull-Run_31973
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Monroe, J. Albert (John Albert)
+    alias: Monroe, John Albert
+    birthdate: 1836
+    deathdate: 1891
+    gutenberg_agent_id: '35582'
+    url: http://www.gutenberg.org/2009/agents/35582
+description: ''
+gutenberg_issued: '2010-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31973'
+  lccn: 07037828
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bull Run, 1st Battle of, Va., 1861'
+- !lcsh 'Rhode Island Artillery. 1st Regiment, 1861-1865'
+- !lcc 'E456'
+title: The Rhode Island Artillery at the First Battle of Bull Run
+url: http://www.gutenberg.org/ebooks/31973
